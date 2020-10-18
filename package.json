@@ -1,0 +1,24 @@
+{
+  "name": "fuck-js-variable-loader",
+  "version": "1.0.0",
+  "description": "混淆js的变量名, 变得难懂",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xumengzi/fuck-js-variable-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "fuck-js-variable-loader"
+  ],
+  "author": "xumeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xumengzi/fuck-js-variable-loader/issues"
+  },
+  "homepage": "https://github.com/xumengzi/fuck-js-variable-loader"
+}
